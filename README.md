@@ -32,7 +32,3 @@ API Link -> https://www.dnd5eapi.co/api/2014/
     - A02325182
 - Chadler Neeley
     - `Fill in A#`
-
-
-
-asdfasdfyadsfasdfasdfasdf
