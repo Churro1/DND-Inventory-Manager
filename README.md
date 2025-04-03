@@ -13,20 +13,29 @@ D&amp;D Inventory &amp; Campaign Manager – A tool to track character inventori
 - Log in
 - Helpful Character Sheets
     - Have the most important information available by default.
+    - Name, backstory, class & level, Race, alignment, XP etc.
+    - Individual campaign notes.
 - Inventory management
     - API to tell what everything does
     - Custom items are available too
+- Highlight equipped weapons / Armor
+- Money conversions and tracker
+- DM has access to party members
+- DM has campaign notes that are available to be viewed by all.  
 
 
 ### Nice to Have Features
-- Modules on character sheets so they are personable.
+- Modules on character sheets so they are personalizable
 - Audio transcription that will give a written summary 
 - Items in categories (So I can look at all healing items with one search)
+- Auto update AC and attack bonuses based on equiped items
+- Character sheet creation helper (Auto math some stuff)
+- Party management (Trade items between party members, view other character backstory as made available)
 
 
 ## Technical Challenges
 - Having both a DM and an adventurer side of things might be hard, so we will have to learn to make sure that if statement works haha. 
-- 
+- Viewing and editing permissions based on Player or DM and cmapaign. 
 - We will need to learn to use this API to get descriptions of items. 
 
 Link to website -> https://www.dnd5eapi.co/
