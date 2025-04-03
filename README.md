@@ -53,4 +53,4 @@ API Link -> https://www.dnd5eapi.co/api/2014/
 - Charlie Miner 
     - A02325182
 - Chadler Neeley
-    - `Fill in A#`
+    - A02429680
