@@ -36,6 +36,7 @@ This application is aiming to be a D&amp;D group's new best friend! It is going 
 ## Technical Challenges
 - Having both a DM and an adventurer side of things might be hard, so we will have to learn to make sure that if statement works haha. 
 - Viewing and editing permissions based on Player or DM and cmapaign. 
+- Having people be able to see other peoples stuff depending on campaign. 
 - We will need to learn to use this API to get descriptions of items. 
 
 Link to website -> https://www.dnd5eapi.co/
