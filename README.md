@@ -1,5 +1,5 @@
 # DND-Inventory-Manager
-D&amp;D Inventory &amp; Campaign Manager – A tool to track character inventories, manage campaign notes, and organize game sessions efficiently. Features include item tracking, party management, and session logs. Built for DMs and players alike!
+D&D Inventory & Campaign Manager – A tool to track character inventories, manage campaign notes, and organize game sessions efficiently. Features include item tracking, party management, and session logs. Built for DMs and players alike!
 
 
 # DND Inventory Manmager (I can't bring myself to change it...)
