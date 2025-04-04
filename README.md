@@ -2,14 +2,14 @@
 D&amp;D Inventory &amp; Campaign Manager – A tool to track character inventories, manage campaign notes, and organize game sessions efficiently. Features include item tracking, party management, and session logs. Built for DMs and players alike!
 
 
-# DND Inventory Manmager
+# DND Inventory Manmager (I can't bring myself to change it...)
 
 ## General Description
-
+This application is aiming to be a D&amp;D group's new best friend! It is going to be a convenient and easy way for players to manage their character sheets without having to constantly erase information, as well as displaying information about all their items from the D&amp;D Handbook so they dont have to look anything up! DMs will also have tools to manage their sessions and campaigns, and can take notes for a session or for the campaign overall to give to the players so everyone can have the same information!
 
 
 ## Feature List 
-### Must Have Fetures
+### Must Have Fetures 
 - Log in
 - Helpful Character Sheets
     - Have the most important information available by default.
@@ -46,14 +46,13 @@ API Link -> https://www.dnd5eapi.co/api/2014/
 
 ## Requirments
 
-1. You should build a single-page application using React with Django as the backend.
-2. Your app should be multiple pages (using client-side routing)
+1. This application will be using React as the front end to quickly and dynamically display user input for changes in the users' character sheet, to display the campaign and session information for the DM, and for the UI. Django will be used to store the relevant data in a database and for authentication.
+2. There will be a landing page that will welcome users and ask them to sign in, the login page, the "Players" page that will allow players to manage their character sheet, inventory, manage personal notes, view session notes, etc., and a "DM" page that will allow the DM to view information about each group's characters, and to manage their session and campaign notes.
 3. We will require a log in system. Each user will be able to have multiple characters and campaigns
-4. Your app must be useful
-    - What I mean by this is that the app must be more than the sum of its parts.  
-    - The app should attempt to solve a specific problem.
-5. Your app should have a consistent, intentional design.
+4. This application is attempting to solve the issue of having to manage a D&amp;D character sheet on paper, something that can be very tedious, as well as helping the DM organize their sessions and campaigns easily, and giving players and DM's unified session and campaign notes.
+5. There will be common CSS and styling through out. Each page will be similar in look and style to feel unfied.
 6. Each user will be able to have multiple characters and campaigns that will be saved. each of these may have any number of items, quests, notes, etc. 
+
 
 ## Group Members
 
